@@ -1,3 +1,10 @@
+#Folder
+data/
+notebooks_aulas/
+
+#extensions
+*.pdf
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
