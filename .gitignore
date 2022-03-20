@@ -1,6 +1,8 @@
 #Folder
 data/
 notebooks_aulas/
+model/
+parameter/
 
 #extensions
 *.pdf
