@@ -1,9 +1,5 @@
 #Folder
-data/
 notebooks_aulas/
-model/
-parameter/
-api/
 
 #extensions
 *.pdf
